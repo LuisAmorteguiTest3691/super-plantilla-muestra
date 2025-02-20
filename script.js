@@ -16,7 +16,8 @@ const data = [
   { 'indice': '7', 'url': 'https://luisamorteguitest3691.github.io/7.-Sweet-Pick-Plantilla-HTML-moderna-de-comercio-electr-nico/' },
   { 'indice': '8', 'url': 'https://luisamorteguitest3691.github.io/8.-NeonCart---Plantilla-de-tienda-de-comercio-electr-nico-multiprop-sito/' },
   { 'indice': '9', 'url': 'https://luisamorteguitest3691.github.io/9.-Vue---Plantilla-HTML5-limpia-y-minimalista-de-comercio-electr-nico/' },
-  { 'indice': '10', 'url': '' }
+  { 'indice': '10', 'url': '' },
+  { 'indice': '11', 'url': 'https://luisamorteguitest3691.github.io/11.-Ropa---Plantilla-de-moda-de-comercio-electr-nico/' }
 //   { 'indice': '7', 'url': '' }
   // Puedes agregar más objetos si lo deseas para los demás índices
 ];
